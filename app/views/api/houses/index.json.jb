@@ -1,0 +1,5 @@
+@characters.map do |character|
+  {
+    name: character.name
+  }
+end
